@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "description": "Configuration for portfolio website",
+  "theme": {
+    "primaryColor": "#000000",
+    "secondaryColor": "#ffffff",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "features": {
+    "darkMode": true,
+    "animations": true,
+    "responsiveDesign": true
+  }
+}
